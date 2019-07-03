@@ -66,20 +66,26 @@ git reset --hard origin/master
 git grep "foo()"
 
 
-Setting up a new Git Repo
+<h2>Setting up a new Git Repo</h2>
 
 ##Create a new repository on the command line
 
 touch README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
-git remote add origin git@github.com:alexpchin/<reponame>.git
+
+git remote add origin git@github.com:RajaSardar/<reponame>.git
+
 git push -u origin master
 
 ##Push an existing repository from the command line
 
-git remote add origin git@github.com:alexpchin/<reponame>.git
+git remote add origin git@github.com:RajaSardar/<reponame>.git
+
 git push -u origin master
 
 </b>
