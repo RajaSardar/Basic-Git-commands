@@ -88,4 +88,10 @@ git remote add origin git@github.com:RajaSardar/<reponame>.git
 
 git push -u origin master
 
+<h2>JS commands</h2>
+
+anguler port 4200 kill command 
+
+sudo kill $(sudo lsof -t -i:4200)
+
 </b>
