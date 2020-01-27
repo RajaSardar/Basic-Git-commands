@@ -1,7 +1,7 @@
 <b>
 git config --global user.name "Raja Sardar"
 
-git config --global user.email raja@theorexlabs.com
+git config --global user.email "raja@theorexlabs.com"
 
 git init
 
