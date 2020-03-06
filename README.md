@@ -1,7 +1,16 @@
 <b>
+# Git Config
 git config --global user.name "rajasardar"
 
 git config --global user.email "rj.raj@outlook.com"
+
+# Git To list remote branches:
+git branch -r
+
+You can check them out as local branches with:
+git checkout -b LocalName origin/remotebranchname
+
+#Git Initialize 
 
 git init
 
