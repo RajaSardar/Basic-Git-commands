@@ -1,5 +1,5 @@
 <b>
-# Git Config
+##Git Config:
 git config --global user.name "rajasardar"
 
 git config --global user.email "rj.raj@outlook.com"
