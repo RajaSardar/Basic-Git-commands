@@ -105,6 +105,6 @@ sudo kill $(sudo lsof -t -i:4200)
   
   
 <h3>git discard all changes from a branch in local</h3> 
-git reset --hard origin/"<branch_name>"
+git reset --hard origin/"branch_name"
   
 </b>
