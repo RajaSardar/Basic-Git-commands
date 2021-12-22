@@ -102,5 +102,9 @@ git push -u origin master
 anguler port 4200 kill command 
 
 sudo kill $(sudo lsof -t -i:4200)
-
+  
+  
+##git discard all changes from a branch in local 
+git reset --hard origin/<branch_name>
+  
 </b>
